@@ -9,6 +9,7 @@ To install it to your custom/plugins directory, please follow the instructions:
 - Clear custom/plugins directory of example custom plugin provided by oh-my-zsh maintain code:
 
     `cd ~/.oh-my-zsh/custom/plugins`
+
     `rm -rf example`
 
 - Clone this repo to custom/plugins directory:
