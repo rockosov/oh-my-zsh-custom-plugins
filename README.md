@@ -14,7 +14,7 @@ To install it to your custom/plugins directory, please follow the instructions:
 
 - Clone this repo to custom/plugins directory:
 
-   `git clone https://github.com/rockosov/oh-my-zsh-custom-plugins .`
+   `git clone --recursive https://github.com/rockosov/oh-my-zsh-custom-plugins .`
 
 - Checkout example maintain custom plugin back:
 
